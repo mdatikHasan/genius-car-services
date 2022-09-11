@@ -1,0 +1,13 @@
+Nav{
+    background-color: rgb(78, 84, 249);
+}
+Nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+Nav .active{
+    color: orange;
+    
+}
