@@ -7,6 +7,8 @@ const ServiceDetail = () => {
     return (
         <div>
             <h2>Service detail : {serviceId}</h2>
+
+            <Link to='/checkout'><button className='btn btn-primary'>Proced Checkout</button></Link>
             <Link to='/'>Service</Link>
         </div>
     );
